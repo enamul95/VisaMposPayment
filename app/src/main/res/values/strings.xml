@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VisaMposPayment</string>
+    <string name="initDevice">ScanDevice</string>
+    <string name="connDevice">ConnectDevice</string>
+    <string name="disconnDevice">DisconnectDevice</string>
+    <string name="isConnected">IsConnected</string>
+    <string name="getSN">GetSN</string>
+    <string name="getCSN">GetPSAM</string>
+    <string name="deviceInformation">DeviceInformation</string>
+    <string name="getVersion">ApiVersion</string>
+    <string name="cancel">CancelTransaction</string>
+    <string name="updateWorkingKey">SignIn</string>
+    <string name="readCard">ReadCard</string>
+    <string name="pleaseEnterPassword">InputPassword</string>
+    <string name="encryptPassword">EncryptPassword</string>
+    <string name="ICTradeResponse">ICReauthorization</string>
+    <string name="confirmTransaction">ConfirmTransaction</string>
+    <string name="getMac">CalculateMac</string>
+    <string name="printSalesSlip">PrintSalesSlip</string>
+    <string name="upgradeDevice">Upgrade</string>
+    <string name="changeLanguage">ChangeLanguage</string>
+
+    <string name="uploadEmvConfig">UploadEMV</string>
+    <string name="getEmvConfig">GetEMV</string>
+    <string name="uploadEmvTime">GetEMVTime</string>
+    <string name="updateAID">UpdateAID</string>
+    <string name="updateRID">UpdateRID</string>
+    <string name="getcv">GetCheckvalue</string>
+    <string name="showLCD">ShowLCD</string>
+    <string name="clearLCD">ClearScreen</string>
+    <string name="setTime">SetTime</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="openChannel">OpenChannel</string>
+    <string name="transCommand">TransCommand</string>
+    <string name="closeChannel">CloseChannel</string>
+
+</resources>
