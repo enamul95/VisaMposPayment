@@ -109,7 +109,10 @@ public class ReadCardActivity extends AppCompatActivity {
             android.Manifest.permission.INTERNET,
             android.Manifest.permission.BLUETOOTH,
             android.Manifest.permission.BLUETOOTH_CONNECT,
-            android.Manifest.permission.BLUETOOTH_SCAN
+            android.Manifest.permission.BLUETOOTH_SCAN,
+            android.Manifest.permission.ACCESS_COARSE_LOCATION,
+            android.Manifest.permission.READ_PHONE_STATE,
+            android.Manifest.permission.READ_LOGS,
 
     };
 
